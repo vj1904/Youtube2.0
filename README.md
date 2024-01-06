@@ -13,7 +13,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/youtube-clone-react.git
+git clone https://github.com/vj1904/youtube-clone-react.git
 Navigate to the project directory:
 
 bash
